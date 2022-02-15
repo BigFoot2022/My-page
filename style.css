@@ -11,7 +11,7 @@ body { display: block; margin:0; place-items: center; font-family:Helvetica, san
         @media (min-width: 800px) {.Avatar {width: 200px;}}
         .TitlulPaginii { display: block; margin: 0; font-size: clamp(2rem, 6vw, 4rem); line-height: 1em; }
         .DescrierePrincipala { display: block; margin: 0.5em 0 1,5em;}
-        main{ clear:both   }
+        main{ clear:both;   }
         .ListaLinkuri {display:block; margin: 0; padding: 0; border-top: 1px solid #ffff; }
             .ListaItem {display: block; margin: 0; padding: 0; border-bottom: 1px solid #ffff;}
                 .ListaLink { display: block; padding: 0.5em; color: #ffff; text-decoration: none;}
